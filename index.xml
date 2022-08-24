@@ -6,23 +6,26 @@
     <description>Recent content on John Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yh-john-park.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yh-john-park.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social science research methods seminar</title>
+      <link>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</guid>
+      <description>Intro In this course, students will learn social science research methods to conduct original research on a topic of their choice. Students are introduced to wrangling and visualizing data in R, with no coding background required. Our brief survey of qualitative methods includes purposive sampling, semi-structured interviews, open-coding, thematic analysis, and the matrix method.
+Read my reflections on the Summer 2022 course here.
+Day 1 Day 2 Day 3 Day 4 </description>
+    </item>
+    
     <item>
       <title>Research methods with youth</title>
       <link>https://yh-john-park.github.io/posts/research-methods-with-youth/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yh-john-park.github.io/posts/research-methods-with-youth/</guid>
-      <description>Intro In the summer of 2022, I taught a social science research methods seminar for a high school program called STEP at Baruch College. View my curriculum [here](/hugo_site/content/posts/social science research seminar).</description>
-    </item>
-    
-    <item>
-      <title>Social science research methods seminar</title>
-      <link>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</guid>
-      <description>Day 1 Day 2 Day 3 Day 4 </description>
+      <description>Intro In the summer of 2022, I taught a social science research methods seminar for a high school program called STEP at Baruch College. View my curriculum here.
+Coding in R RStudio Cloud is an incredibly helpful tool for teaching R. It allows anyone to access the RStudio IDE directly from a browser for free. The free version more than suffices for any individual user, including all of my students. However it only allows for sharing projects between a maximum of 5 members, with a project limit of 10.</description>
     </item>
     
   </channel>
