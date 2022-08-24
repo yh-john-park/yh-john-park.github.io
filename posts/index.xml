@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on John Park</title>
+    <link>https://yh-john-park.github.io/posts/</link>
+    <description>Recent content in Posts on John Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yh-john-park.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research methods with youth</title>
+      <link>https://yh-john-park.github.io/posts/research-methods-with-youth/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yh-john-park.github.io/posts/research-methods-with-youth/</guid>
+      <description>Intro In the summer of 2022, I taught a social science research methods seminar for a high school program called STEP at Baruch College. View my curriculum [here](/hugo_site/content/posts/social science research seminar).</description>
+    </item>
+    
+    <item>
+      <title>Social science research methods seminar</title>
+      <link>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yh-john-park.github.io/posts/social-science-research-methods-seminar/</guid>
+      <description>Day 1 Day 2 Day 3 Day 4 </description>
+    </item>
+    
+  </channel>
+</rss>
